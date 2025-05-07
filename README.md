@@ -1,4 +1,4 @@
-# greenhouse-sensor-analytics
+# Greenhouse-sensor-analytics
 
 ## Table of Content
 

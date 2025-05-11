@@ -104,13 +104,17 @@ print("Date range:", df['DateTime'].min(), df['DateTime'].max())
 
 ## Data Visualizations
 [Visualizations]
-![output](https://github.com/user-attachments/assets/56070ee5-1320-40d6-8eb3-8521af50dcaa)
-![Monthly irTemp](https://github.com/user-attachments/assets/ab53ecc2-8bf8-4afa-a4a0-f66ea8241fe2)
-![Monthly Humidity](https://github.com/user-attachments/assets/38aa8c3a-c2b3-4748-acd5-898b8061368a)
-![Average Temp](https://github.com/user-attachments/assets/6f851e24-50e5-417e-b3ba-90daf5c8ab11)
-![Average Humidity](https://github.com/user-attachments/assets/66437584-7e29-4701-a08b-d958c6a49291)
-![Average Environmental reading](https://github.com/user-attachments/assets/b092d25b-c2e2-49ab-8a6b-728f4088f5f3)
-![correlation](https://github.com/user-attachments/assets/e4238e0a-07f8-4785-a6cc-6dc604fedcca)
+![Figure 4a_monthly_average_temperature](https://github.com/user-attachments/assets/146542b6-8e98-4ba4-a73d-d9fcb1df0c8c)
+![Figure 4b_monthly_average_humidity](https://github.com/user-attachments/assets/4647023a-1208-49cf-a072-01ba9d97ed46)
+![Figure 4c_Average_Temperature_by_time_of_the_day](https://github.com/user-attachments/assets/7706b47c-de90-42a1-9cf2-cb7b2d9ab90d)
+![Figure 4d_Average_humidity_by_time_of_the_day](https://github.com/user-attachments/assets/d155fbdc-8bb2-45cd-8af5-e697df87b20a)
+![Figure 1a_Temperature_distribution_before_outlier_removal](https://github.com/user-attachments/assets/dbb272af-aeca-4f28-b845-ec795faa2d27)
+![Figure 1b_Temperature_distribution_after_outlier_removal](https://github.com/user-attachments/assets/456fa867-d412-4dd6-83c7-b59c4e37febb)
+![Figure 1c_Humidity_distribution_before_removal_of_outliers](https://github.com/user-attachments/assets/1ba08a15-a9b9-49d7-b177-b66fba057cb7)
+![Figure 1d_Humidity_distribution_after_removal_of_outliers](https://github.com/user-attachments/assets/b02d0064-6d4a-4cfb-b07e-971ccc9e9866)
+
+
+
 
 ## Results
 - Temporal Patterns:
